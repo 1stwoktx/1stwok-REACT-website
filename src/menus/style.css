@@ -1,0 +1,13 @@
+.menu {
+    min-height: 600px;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul > li > a:hover {
+    background-color: gold;
+    color: black;
+}

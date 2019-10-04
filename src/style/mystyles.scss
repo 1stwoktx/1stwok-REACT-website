@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+// Set your brand colors and fonts
+// Update black
+$black: #000000;
+$black-invert: #FF000F;
+// Update white
+$white: #ffffff;
+$white-invert: #FF000F;
+// Add a sans-serif family
+$family-sans-serif: "Oswald", sans-serif;
+// Add a serif family
+$family-secondary:"Lobster", "cursive", serif;
+
+// Update Bulma's global variables
+$primary: $black;
+$primary-invert: $black-invert;
+//Update light
+$light: $white;
+$light-invert: $white-invert;
+
+
+//Update color varibles
+$grey-light: $white;
+$link: $black-invert;
+
+
+
+@import "../../node_modules/bulma/bulma.sass";
+
+iframe {
+    height: 450px  
+}
