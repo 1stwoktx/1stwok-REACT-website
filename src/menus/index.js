@@ -22,7 +22,7 @@ export default () => (
             <ul>
                 <li className=" "><Link to="/luncheon">Luncheon</Link></li>
                 <li><Link to="/specialDiet">Special Diet</Link></li>
-                <li><Link to="/houseSpecial">House Special</Link></li>
+                <li><Link to="/houseSpecial">House Specialities</Link></li>
             </ul>
             <ul>
                 <li><Link to="/sideCourse">Appetizer/Soup/Dessert </Link></li>
@@ -41,36 +41,6 @@ export default () => (
             <Route path="/mainCourse" component={MainCourse} />
             <Route path="/friedRiceLoMein" component={RiceNoodle} />
             <Route path="/completeDinner" component={CompleteDinner} />
-    
-
-
-        {/* <Luncheon />
-        <hr />
-        <HouseSpecial />
-        <hr />
-        <SpecialDiet />
-        <hr />
-        <div className="s">
-            <Appetizer />
-            <Soup />
-            <Dessert />
-        </div>
-        <hr />
-        <div className="s">
-            <RiceNoodle />
-            <Vegetables />
-        </div>
-        <hr />
-        <div className="s">
-            <Chicken />
-            <Beef />
-            {/* </div>
-        <div className="s"> 
-            <Pork />
-            <Seafood />
-        </div>
-        <hr />
-        <CompleteDinner /> */}
 
     </div>
 )

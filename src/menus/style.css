@@ -2,6 +2,27 @@
     min-height: 600px;
 }
 
+.menu > nav >ul >li {
+    margin: 4px;
+}
+
+.menu-body {
+    clear: both;
+}
+
+.description {
+    float: left;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.dish {
+    float: left;
+}
+.price {
+    float: right;
+}
+
 .nav {
     display: flex;
     flex-wrap: wrap;

@@ -8,15 +8,16 @@ import Vegetables from './Vegetables';
 
 export default () => (
     <div className="columns">
-        <div className="column">
+        <div className="column"></div>
+        <div className="column is-two-thirds">
             <Beef />
             <Seafood />
-        </div>
-        <div className="column">
+        {/* </div>
+        <div className="column"> */}
             <Chicken />
             <Pork />
             <Vegetables />
         </div>
-
+        <div className="column"></div>
     </div>
 )
