@@ -37,7 +37,7 @@ export default () => (
             <div>
               <h2 className="is-size-2 has-text-weight-bold is-family-secondary"><a id="menu" >Menu</a></h2>
               <Menu />
-              <div className='is-italic' style={{margin:"20px 0"}}>
+              <div className='is-italic' style={{ margin: "20px 0" }}>
                 <div> All entrees served with the white rice only. </div>
                 <div> A 15% gratuity will be added to parties of 5 or more. </div>
                 <br />
@@ -51,13 +51,15 @@ export default () => (
           <div className="container">
             <h2 className="is-size-2 has-text-weight-bold is-family-secondary" style={{ margin: '20px' }}><a id="contact">Contact</a></h2>
             <div className="columns">
-              <div className="column" style={{ width: '800px', height: '600px' }}>
-                <h2 className="is-size-4 has-text-weight-bold">Address: </h2>
-                <p>603 W. Stassney Lane
-              Austin, TX 78745</p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.0228602618067!2d-97.78316468486206!3d30.20789498182318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b4abca6dd1f7%3A0xc2640c2465312402!2s1st%20Wok!5e0!3m2!1sen!2sus!4v1570034810315!5m2!1sen!2sus" width="600" height="450" frameborder="0" style={{ border: 0 }} allowfullscreen=""></iframe>
+              {/* <div className="column" style={{ width: '800px', height: '600px' }}> */}
+              <div className="column">
+                <h2 className="is-size-5">Address: <span>603 W. Stassney Lane, Austin, TX 78745</span> </h2>
+                
+                <div className="iframeContainer">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.0228602618067!2d-97.78316468486206!3d30.20789498182318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b4abca6dd1f7%3A0xc2640c2465312402!2s1st%20Wok!5e0!3m2!1sen!2sus!4v1570034810315!5m2!1sen!2sus" width="100%" height="auto" className="map" frameBorder="0" allowFullScreen=""></iframe>
+                </div>
               </div>
-              <div className="column is-one-third-desktop is-full-mobile" style={{ margin: "50px", padding: '15px', border: 'solid 1px black', }}>
+              <div className="column is-one-third-desktop is-full-mobile businessHour" style={{ padding: '15px', border: 'solid 1px black', margin: "20px 0" }}>
                 <div>
                   <h2>	Business Hours	</h2>
                   <br />
