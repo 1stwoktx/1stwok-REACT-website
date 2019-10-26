@@ -24,7 +24,7 @@ export default () => {
                 <li>	<div className="menu-body">	<p className="dish">			{placeholder}	10	<span>	 BEEF WITH BROCCOLI	</span>	</p>	<p className="has-text-right price">	7.5	</p>	</div>	</li>
                 <li>	<div className="menu-body">	<p className="dish">			{placeholder}	11	<span>	PEPPER STEAK	</span>	</p>	<p className="has-text-right price">	7.5	</p>	</div>	</li>
                 <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	12	<span>	BEEF SZECHUAN	</span>	</p>	<p className="has-text-right price">	7.5	</p>	</div>	</li>
-                <li>	<div className="menu-body">	<p className="dish">				13	<span>	CHICKEN AND SHRIMP COMBO	</span>	</p>	<p className="has-text-right price">	7.95	</p>	</div>	</li>
+                <li>	<div className="menu-body">	<p className="dish">			{placeholder}	13	<span>	CHICKEN AND SHRIMP COMBO	</span>	</p>	<p className="has-text-right price">	7.95	</p>	</div>	</li>
                 <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	14	<span>	SHRIMP WITH GARLIC SAUCE	</span>	</p>	<p className="has-text-right price">	7.95	</p>	</div>	</li>
                 <li>	<div className="menu-body">	<p className="dish">			{placeholder}	15	<span>	SHRIMP WITH LOBSTER SAUCE	</span>	</p>	<p className="has-text-right price">	7.95	</p>	</div>	</li>
                 <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	16	<span>	SHRIMP SZECHUAN	</span>	</p>	<p className="has-text-right price">	7.95	</p>	</div>	</li>
