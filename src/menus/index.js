@@ -27,7 +27,7 @@ export default () => (
             <ul>
                 <li><Link to="/sideCourse">Appetizer/Soup/Dessert </Link></li>
                 <li><Link to="/mainCourse">Main Course</Link></li>
-                <li><Link to="/friedRiceLoMein">Fried Rice And Lo Mein</Link></li>
+                <li><Link to="/friedRiceLoMein">Fried Rice or Lo Mein</Link></li>
                 <li><Link to="/completeDinner">Complete Dinner</Link></li>
 
             </ul>

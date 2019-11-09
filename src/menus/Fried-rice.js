@@ -5,7 +5,7 @@ export default () => (
         <div className="column"></div>
 
         <div className="column is-two-thirds">
-            <h2 className='is-size-2'>FRIED RICE AND LO MEIN<span>(noodle)</span></h2><br />
+            <h2 className='is-size-2'>FRIED RICE OR LO MEIN<span>(noodle)</span></h2><br />
             <ul>
                 <li>	<div className="menu-body">	<p className="dish">	30	<span>	肉丝炒饭（麵）	</span>	<span>	PORK FRIED RICE OR LO MEIN	</span>	</p>	<p className="has-text-right price">	8.75	</p>	</div>	</li>
                 <li>	<div className="menu-body">	<p className="dish">	31	<span>	虾炒饭（麵）	</span>	<span>	SHRIMP FRIED RICE OR LO MEIN	</span>	</p>	<p className="has-text-right price">	10.25	</p>	</div>	</li>

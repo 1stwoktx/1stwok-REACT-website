@@ -7,7 +7,7 @@ export default () => (
       <div className="container">
         <h2 className="is-size-6-mobile is-size-4-desktop has-text-white">
           <p>
-            ORDER NOW! TEL: 512-444-0077
+            ORDER NOW! TEL: 512-444-0077; 512-444-0428
           </p>
 
         </h2>
@@ -78,6 +78,7 @@ export default () => (
                   <p style={{ color: "red" }}>	ORDER NOW!	</p>
 
                   <p>	TEL: 512-444-0077	</p>
+                  <p>      512-444-0428	</p>
                   <p>	Fax: 512-444-1528	</p>
 
                 </div>

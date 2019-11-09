@@ -13,7 +13,7 @@ export default () => {
             <li>	<div className="menu-body">	<p className="dish">	{placeholder}	73	<span>	木须肉	</span>	<span>	MOO SHU PORK	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	74	<span>	回锅肉	</span>	<span>	 DOUBLE SAUTÉED PORK	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	75	<span>	辣椒肉	</span>	<span>	 JALAPENO PORK	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
-            <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	76	<span>	麻婆豆腐	</span>	<span>	 TANGY SPICY BEAN CURD	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
+            <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	*	</span>	76	<span>	麻婆豆腐	</span>	<span>	 TANGY SPICY TOFU	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">    {placeholder}	77	<span>	蔬菜肉	</span>	<span>	PORK WITH VEGETABLES	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
 
         </ul>

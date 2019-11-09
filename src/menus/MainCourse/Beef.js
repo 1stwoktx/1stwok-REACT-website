@@ -16,7 +16,7 @@ export default () => {
             <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	{star}	</span>	85	<span>	鱼香牛	</span>	<span>	 BEEF WITH GARLIC SAUCE	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	{star}	</span>	86	<span>	干烧牛	</span>	<span>	 BEEF SZECHUAN	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li> 	<div className="menu-body">	<p className="dish">			{placeholder}	87	<span>	豆豉牛	</span>	<span>	BEEF WITH BLACK BEAN SAUCE	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
-            <li> 	<div className="menu-body">	<p className="dish">		{placeholder}		88	<span>	木须牛	</span>	<span>	MOO SHO BEEF	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
+            <li> 	<div className="menu-body">	<p className="dish">		{placeholder}		88	<span>	木须牛	</span>	<span>	MOO SHU BEEF	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li> 	<div className="menu-body">	<p className="dish">		{placeholder}		89	<span>	芽菜牛	</span>	<span>	BEEF WITH BEAN SPROUTS	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">	<span style={{ color: "red" }}>	{star}	</span>	90	<span>	沙茶牛	</span>	<span>	 SHA CHA BEEF	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>
             <li> 	<div className="menu-body">	<p className="dish">			{placeholder}	91	<span>	牛炒面	</span>	<span>	BEEF CHOW MEIN	</span>	</p>	<p className="has-text-right price">	9.45	</p>	</div>	</li>

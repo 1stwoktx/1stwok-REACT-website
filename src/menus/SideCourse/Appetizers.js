@@ -14,7 +14,7 @@ export default () => {
             <li>	<div className="menu-body">	<p className="dish"> {placeholder}				02	<span>	素春捲	</span>	<span>	VEGETARIAN ROLL (1)	</span>	</p>	<p className="has-text-right price">	1.45	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish"> {placeholder}				03	<span>	凤尾虾	</span>	<span>	FANTAIL SHRIMP (8)	</span>	</p>	<p className="has-text-right price">	7.25	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">{placeholder}				04	<span>	虾吐司	</span>	<span>	SHRIMP TOAST	</span>	</p>	<p className="has-text-right price">	6.75	</p>	</div>	</li>
-            <li>	<div className="menu-body">	<p className="dish"> {placeholder}				05	<span>	蒸饺锅贴	</span>	<span>	DUMPLINGS (STEAMED OR FRIED)(6)	</span>	</p>	<p className="has-text-right price">	5.75	</p>	</div>	</li>
+            <li>	<div className="menu-body">	<p className="dish"> {placeholder}				05	<span>	蒸饺锅贴	</span>	<span>	DUMPLINGS (STEAMED OR FRIED)(8)	</span>	</p>	<p className="has-text-right price">	5.75	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish"> {placeholder}				07	<span>	蟹角	</span>	<span>	CRAB PUFFS (10)	</span>	</p>	<p className="has-text-right price">	6.75	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">	{placeholder}			08	<span>	鸡翅膀	</span>	<span>	CHICKEN WINGS (6) pieces	</span>	</p>	<p className="has-text-right price">	4.75	</p>	</div>	</li>
             <li>	<div className="menu-body">	<p className="dish">	{placeholder}			09	<span>	烤排骨	</span>	<span>	B.B.Q. RIBS (4)	</span>	</p>	<p className="has-text-right price">	6.95	</p>	</div>	</li>
