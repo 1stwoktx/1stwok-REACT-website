@@ -4,7 +4,7 @@ import { Router } from 'react-router-dom';
 import { createBrowserHistory } from "history";
 import 'bulma';
 import './App.css';
-import './style/mystyles.scss'
+import './style/mystyles.scss';
 
 const history = createBrowserHistory();
 

@@ -107,7 +107,7 @@ export default () => {
 
 
                         <br />
-                        <span className="description">	Chunks of chicken lightly breaded, deep fried until crispy brown, then sauteed with special sauce, sauteed with special sauce, topped with candy walnuts.	</span>
+                        <span className="description">	Chunks of chicken lightly breaded, deep fried until crispy brown, then sauteed with special sauce, sauteed with special sauce.</span>
                     </li>
 
                     <li>

@@ -37,11 +37,11 @@ export default () => (
             <div>
               <h2 className="is-size-2 has-text-weight-bold is-family-secondary"><a id="menu" >Menu</a></h2>
               <Menu />
-              <div className='is-italic' style={{ margin: "20px 0" }}>
+              <div className='is-italic' style={{ margin: '20px 0' }}>
                 <div> All entrees served with the white rice only. </div>
                 <div> A 15% gratuity will be added to parties of 5 or more. </div>
                 <br />
-                <div> <span style={{ color: "red" }}>* </span> Hot and Spicy </div>
+                <div> <span style={{ color: "red" }}>* </span> <strong>Hot and Spicy</strong> </div>
               </div>
 
             </div>
@@ -80,6 +80,13 @@ export default () => (
                   <p>	TEL: 512-444-0077	</p>
                   <p>      512-444-0428	</p>
                   <p>	Fax: 512-444-1528	</p>
+                  <br/>
+
+                  <div className='has-text-weight-bold' style={{ border: '1px dotted red'}}>
+                  <p>FREE CHICKEN WINGS</p>
+                  <p> one coupon per visit </p>
+                  <p> $45 plus Tax Purchage (Pick Up only) </p>
+                  </div>
 
                 </div>
               </div>
