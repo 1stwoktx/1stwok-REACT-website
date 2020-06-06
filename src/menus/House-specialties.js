@@ -13,7 +13,7 @@ export default () => {
                 <div className="column">
                     <li>
                         
-                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	50	<span>	陈皮牛	</span>	<span>	 ORANGE FLAVORED BEEF	</span>	</p>	<p className="has-text-right price">	11.25	</p>	</div>
+                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	50	<span>	陈皮牛	</span>	<span>	 ORANGE FLAVORED BEEF	</span>	</p>	<p className="has-text-right price">	11.75	</p>	</div>
 
 
                         <br />
@@ -22,7 +22,7 @@ export default () => {
 
                     <li >
 
-                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}	51 <span>	脆皮核桃虾	</span>	<span>	TROPICAL SHRIMP WITH CANDY WALNUTS	</span>	</p>	<p className="has-text-right price">	11.25	</p>	</div>	
+                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}	51 <span>	脆皮核桃虾	</span>	<span>	TROPICAL SHRIMP WITH CANDY WALNUTS	</span>	</p>	<p className="has-text-right price">	11.75	</p>	</div>	
 
                         <br />
                         <span className="description">	Shrimps lightly battered and fried until crispy brown, then sauteed with chef’s special sauce garnished with broccoli.	</span>
@@ -30,7 +30,7 @@ export default () => {
 
                     <li>
 
-                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	52	<span>	牛郎织女	</span>	<span>	 LOVER’S NEST	</span>	</p>	<p className="has-text-right price">	9.95	</p>	</div>		
+                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	52	<span>	牛郎织女	</span>	<span>	 LOVER’S NEST	</span>	</p>	<p className="has-text-right price">	10.25	</p>	</div>		
 
 
                         <br />
@@ -39,7 +39,7 @@ export default () => {
 
                     <li>
 
-                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}   53	<span>	七彩虾	</span>	<span>	RAINBOW SHRIMP	</span>	</p>	<p className="has-text-right price">	10.25	</p>	</div>	
+                        <div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}   53	<span>	七彩虾	</span>	<span>	RAINBOW SHRIMP	</span>	</p>	<p className="has-text-right price">	10.75	</p>	</div>	
 
                         <br />
                         <span className="description">	Shrimp sauteed with a variety of vegetables in a special sauce.</span>
@@ -47,7 +47,7 @@ export default () => {
 
                     <li>
 
-                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}	54	<span>	海鲜煲	</span>	<span>	SEA TREASURE POT	</span>	</p>	<p className="has-text-right price">	11.25	</p>	</div>	
+                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}	54	<span>	海鲜煲	</span>	<span>	SEA TREASURE POT	</span>	</p>	<p className="has-text-right price">	11.75	</p>	</div>	
 
                         <br />
                         <span className="description">	Combination of seafood sauteed with vegetables and served in the Chinese traditional clay pot.	</span>
@@ -55,7 +55,7 @@ export default () => {
 
                     <li>
 
-                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	56	<span>	大三元	</span>	<span>	 TRIPLE CROWN	</span>	</p>	<p className="has-text-right price">	11.25	</p>	</div>
+                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	56	<span>	大三元	</span>	<span>	 TRIPLE CROWN	</span>	</p>	<p className="has-text-right price">	11.75	</p>	</div>
 
                         <br />
                         <span className="description">	Combination of beef, chicken and shrimp sauteed with vegetables in a chef’s special sauce.	</span>
@@ -63,7 +63,7 @@ export default () => {
 
                     <li>
 
-                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}	57	<span>	芝麻牛	</span>	<span>	SESAME BEEF	</span>	</p>	<p className="has-text-right price">	11.25	</p>	</div>
+                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	{placeholder}	57	<span>	芝麻牛	</span>	<span>	SESAME BEEF	</span>	</p>	<p className="has-text-right price">	11.75	</p>	</div>
 
                         <br />
                         <span className="description">	Chunks of frank steak marinated with red wine and cooked with sesame sauce.	</span>
@@ -71,7 +71,7 @@ export default () => {
 
                     <li>
 
-                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	58	<span>	湖南虾	</span>	<span>	 HUNAN SHRIMP	</span>	</p>	<p className="has-text-right price">	10.25	</p>	</div>		
+                    	<div className="menu-body has-text-weight-semibold">	<p className="dish">	<span style={{color: "red"}}>	*	</span>	58	<span>	湖南虾	</span>	<span>	 HUNAN SHRIMP	</span>	</p>	<p className="has-text-right price">	10.75	</p>	</div>		
 
                         <br />
                         <span className="description">	A delicate and remarkable Hunan dish, shrimp stir-fried and sauteed over a high flame with vegetables in a spicy Hunan sauce.	</span>
